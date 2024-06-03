@@ -1,0 +1,9 @@
+# dont use ' '  or " "
+
+/test1.html
+/test2.html
+/test3.html
+/Tips.html
+assets/packages/
+/assets/sass/_temp.scss
+/assets/sass/_normalize.scss
